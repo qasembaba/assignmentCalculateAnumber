@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace assignmentCalculateAnumber
 {
@@ -38,5 +39,8 @@ namespace assignmentCalculateAnumber
             return number;
 
         }
-    }
+
+       
+    }  
+
 }
