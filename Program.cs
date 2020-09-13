@@ -40,7 +40,11 @@ namespace assignmentCalculateAnumber
 
         }
 
-       
+       static void NumbersEx ()
+        {
+            int aInt = int.MinValue; // -2.1B - 2.1B
+            Console.WriteLine(1 / 3);
+        }
     }  
 
 }
